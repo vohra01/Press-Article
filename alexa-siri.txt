@@ -1,1 +1,55 @@
-f
+This might come as a surprise, but you know that Amazon Echo device across the room? It’s a networked microphone feeding data back to a massive central location, which might come with some privacy risks.
+
+
+Q.) We wish to dig deeper into the topic and make our readers understand the risks or myths that these voice commanding bots pose to our security and personal information.
+A.)1. It’s Always Listening
+One of the most common knocks against these devices is that it’s “always listening.” While this is true, most people don’t understand what exactly these devices are listening for. Unless you have the Mute toggle enabled, your home assistant is always listening for the wake word, "Alexa", "Ok Google", "Hey Siri". These devices locally processes the audio it hears and deletes the running buffer of audio a few seconds after it picks it up.
+2. Your Discussions Are Recorded
+We discussed listening habits earlier, but there’s another key factor. When you issue a command to your Echo device, Amazon keeps a recording of what you said and Alexa’s response tied to your account. You can actually go back and listen to these (or delete them) later. While you can delete them anytime, obviously having a record of what you’ve said to your Echo could violate your privacy at some point. Similarly for others.
+3. You’re Helping these companies Sell More to You
+Many of the privacy problems come down to one simple fact: They want to make money.
+
+
+Q.)Is it true that while they are not in action they are recording day to day happenings of our house and sending the data to their companies? If so, what is the motive of the companies manufacturing it?
+A.) As said earlier, No!!They record only when you wake them up, However you can disable the feature like this
+*Amazon Alexa
+Open the Amazon Alexa app for Android or iOS, then tap Menu > Settings > Alexa Privacy.
+Tap Manage How Your Data Improves Alexa, then turn off the toggle next to Help Improve Amazon Services and Develop New Features.
+While you’re at it, you can block Amazon from reviewing transcriptions of messages you send with Alexa by disabling the toggles next to any Alexa users at the bottom of the screen.
+If you want to review or delete any of your past Alexa recordings, go back to the Alexa Privacy screen, then tap Review Voice History.
+*Google Assistant
+Open the Google Home app, then tap Account > More settings (under Google Assistant) > Your data in the Assistant > Voice & Audio Activity.
+Switch off the toggle next to Voice & Audio Activity.
+You can also tap Manage Activity, then review and delete some or all of your Google Assistant voice recordings.
+*Siri
+Apple doesn't yet offer a simple opt-out toggle for its Siri "grading" program—that's coming in a future software update—but you can see and delete your Siri conversation history from Apple's servers. It's not nearly as friendly as it is in the Alexa and Google Home app, however.
+
+In recent press release, Google and Apple  mentioned 
+"We've stopped listening to your private Siri, Assistant chat, for now"
+Google and Apple have suspended programs where employees and contractors review recordings made from the companies' respective voice assistants.
+
+Q.)Parents are relying on these smart devices for helping their children in studies citing a reason that it will help their child stay away from screens while studying? Is it a healthy practice?
+A.) Yes!!! Definitely in fast moving world it is great help for parents and no harm in it. Keep in mind these are just ahome assistant and your kids are still yours.
+
+Q.)How can we make a common man understand the background technological terms at play while using such voice command features that records your audio? How can one play it smart while using such devices at their home? Any dos and don'ts.
+A.) We need to understand its a revolution and will change your life. There are no Dos and Don'ts as what we say it does. All you can do is understand the complete terms & conditions of using and what you allow it to access. As it can access your phone only if you allow it. Keep sharp eye on settings of these settings.
+
+Q.)Daily, number of manufacturing and selling are rising and making these companies tech giants of the coming time the same way Microsoft made its way in computers. How will it affect future technologies.
+A.) As said, "It is revolution".
+Here is what I see as some of the promises and challenges of voice. 
+
+*Voice will be on more devices.
+Voice isn't a fad. It's not just for people who want their hands free. Voice will be essential because we can talk faster than we can type.
+Voice assistants are going to show up everywhere in your life--car, work, home, hotels, and restaurants. You might be talking to your washing machine at the laundromat or the vending machine in the lobby. And they'll be talking back, offering advice or suggestions.
+
+*Voice will be more useful.
+Until now, people haven't used voice devices very much because the tasks they can do have been very narrow. For example, most people use voice assistants--like I do--to find an address, start a call, dictate a text, or set an alarm. We can't have conversations with them--yet.
+
+*But there are still some hurdles to overcome before voice assistants are adopted all over. One primary concern is privacy--because the device listens to our voice. 
+
+The device only becomes active when it hears the "wake word," such as "Hey Siri,"  "Hey Google," or "Alexa." The devices aren't recording our conversations.
+
+The virtual assistant companies take privacy seriously.
+
+
+Q.)If the data is actually being saved and we are spied, how can this result in a bigger threat?
