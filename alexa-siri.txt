@@ -53,3 +53,4 @@ The virtual assistant companies take privacy seriously.
 
 
 Q.)If the data is actually being saved and we are spied, how can this result in a bigger threat?
+A.) These devices learn over the time using AI. But here we are helping them to learn by feeding data. Only threat of using these devices I see is, "Tech giants would be able to influence us using data points about us". Simple example, you ask alexa "Get me flight charges for BLR-DEL route". Next day you will start seeing ads on internet offering big discounts on flights. Its simple. 
