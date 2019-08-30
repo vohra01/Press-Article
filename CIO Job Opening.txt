@@ -1,0 +1,48 @@
+Job brief
+We are looking for an experienced CIO (Chief Information Officer) to oversee the use of Information technology (IT) in our company. You will be the one to devise the company’s IT strategy and ensure that all systems necessary to support its operations and objectives are in place.
+An excellent CIO must have a solid IT background and consistently keep up-to-date with advancements of the field. Apart from their education and experience, they must have every quality of a leader and a strong strategic and business acumen.
+The goal is to ensure that information technology adds the maximum value to our company so as to facilitate the success of our business.
+Responsibilities
+•	Set objectives and strategies for the IT department
+•	Select and implement suitable technology to streamline all internal operations and help optimize their strategic benefits
+•	Design and customize technological systems and platforms to improve customer experience
+•	Plan the implementation of new systems and provide guidance to IT professionals and other staff within the organization
+•	Approve purchases of technological equipment and software and establish partnerships with IT providers
+•	Oversee the technological infrastructure (networks and computer systems) in the organization to ensure optimal performance
+•	Direct and organize IT-related projects
+•	Monitor changes or advancements in technology to discover ways the company can gain competitive advantage
+•	Analyze the costs, value and risks of information technology to advise management and suggest actions
+Requirements
+•	Proven experience as CIO or similar managerial role
+•	Excellent knowledge of IT systems and infrastructure
+•	Background in designing/developing IT systems and planning IT implementation
+•	Solid understanding of data analysis, budgeting and business operations
+•	Superior analytical and problem-solving capabilities
+•	A strong strategic and business mindset
+•	Excellent organizational and leadership skills
+•	Outstanding communication and interpersonal abilities
+
+Process Knowledge:
+There are many different aspects of defense that may need to be considered, but which are the most important for long-term protection from cyber-criminals and hackers? To setup smooth process following would be needed
+1. Firewall
+As hacking and cyber-criminals become more sophisticated and defenses become stronger, you might assume that a firewall is obsolete. And while a firewall is arguably the most core of security tools, it remains one of the most important. Its job is to block any unauthorized access to your system.
+
+2. Antivirus Software
+If you run a business and do not have a great deal of experience with cybersecurity, you might assume that the terms ‘firewall’ and ‘antivirus’ are synonymous, but they are not. It is necessary to have both a strong firewall and up-to-date antivirus software in place to keep your system secure. In 2018, both remain vital components of your cybersecurity.
+3. PKI Services
+Many people only associate PKI with SSL or TLS, the technology that encrypts server communications and is responsible for the HTTPS and padlock you see in your browser address bars. While SSL is of course extremely important, not just for security public sites but your internal networks as well, PKI can actually solve a number of common cybersecurity pain points and deserves a place in every organization’s security suite.
+In addition to server security, as mentioned above, PKI can be used to:
+•	Enable Multi-Factor Authentication and access control
+Create compliant, Trusted Digital Signatures
+Encrypt email communications and authenticate the sender’s identity.
+Digitally sign and protect code.
+Build identity and trust into IoT ecosystems
+
+ 4. Managed Detection Services
+As cyber-criminals and hackers have become more sophisticated, and the techniques and software they use are more advanced, it has become necessary for businesses to invest in more powerful forms of defense. In 2018, it is no longer enough simply to have defenses that react to threats – instead they need to be proactive and identify attacks before they can cause problems.
+
+5. Penetration Testing
+Penetration testing is an important way to test your business’ security systems. During a penetration test, cybersecurity professionals will use the same techniques utilized by criminal hackers to check for potential vulnerabilities and areas of weakness. A pen test attempts to simulate the kind of attack a business might face from criminal hackers, including everything from password cracking and code injection to phishing.
+6. Staff Training
+You might not think of staff training as a ‘tool’ but ultimately, having knowledgeable employees who understand their role in cybersecurity is one of the strongest forms of defense against attacks. There are many training tools that you can invest in to educate staff about best cyber security practices.
+
