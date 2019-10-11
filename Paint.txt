@@ -25,3 +25,9 @@ EMPRESS ROSE (1D0324)
 
 
 Recat Project: https://github.com/janoszen/react-hexagonal-architecture/blob/master/src/router/service/BrowserHistoryService.tsx 
+
+
+https://medium.com/@vaibhav0109/design-problem-parking-lot-2617785a8ef7
+https://github.com/root0109/ParkingLot/tree/master/src/main/java/io/gojek/parkinglot/dao
+https://www.educative.io/courses/grokking-the-object-oriented-design-interview/gxM3gRxmr8Z
+https://github.com/kishanvarma/ParkingLot
